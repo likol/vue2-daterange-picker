@@ -14,6 +14,7 @@
       -->
       <slot
         name="input"
+        :rangeText="rangeText"
         :startDate="start"
         :endDate="end"
         :ranges="ranges"
