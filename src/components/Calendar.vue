@@ -240,7 +240,6 @@
 <style scoped lang="scss">
     th, td {
         padding: 2px;
-        background-color: white;
     }
 
     td.today {
@@ -249,7 +248,6 @@
 
     td.disabled {
         pointer-events: none;
-        background-color: #eee;
         border-radius: 0;
         opacity: 0.6;
     }

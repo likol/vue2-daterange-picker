@@ -756,10 +756,8 @@
   $week-width: 0px;
 
   .reportrange-text {
-    background: #fff;
     cursor: pointer;
     padding: 5px 10px;
-    border: 1px solid #ccc;
     width: 100%;
   }
 
